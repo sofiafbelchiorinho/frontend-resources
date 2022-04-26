@@ -36,7 +36,7 @@ Sofia xx
 - [React Junior Vs Senior Code (Video, Web Dev Simplified)](https://youtu.be/0yzoAbrjV6k?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [Senior React Interview Code Challenge (Video, Coding With Kevin)](https://youtu.be/Kb3YtXDvPo0)
 - [HARD React Interview Questions (Video, Peter Elbaum)](https://www.youtube.com/watch?v=Zpvzv8Uma8Q&ab_channel=PeterElbaum)
-- [REAL Front End Interview Questions - Whiteboard (Video, Peter Elbaum)](https://youtu.be/W2mwbKWyZyU?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y) 🔥
+- [REAL Front End Interview Questions - Whiteboard (Video, Peter Elbaum)](https://youtu.be/W2mwbKWyZyU?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y) 
 - [Mastering React Memo (Video, Jack Herrington)](https://youtu.be/DEPwA3mv_R8?list=LL)
 - [Debouncing with React Hooks (Article, Gabe Ragland)](https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci)
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer | JSConf Hawaii 2020 (Video, Tanner Linsley)](https://www.youtube.com/watch?v=J-g9ZJha8FE&ab_channel=JSConf)🔥
@@ -56,7 +56,6 @@ Sofia xx
 - [JavaScript promises, mastering the asynchronous (Course, Magus)](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript) 🔥
 - [Learn and Train JavaScript (Articles & Exercises, Coderanx)](https://www.coderanx.com/articles) 🔥
 - [Promises Exercises (Exercises, JoelCodes)](https://github.com/lighthouse-labs/promises-exercises)
-- [The Async Await Episode I Promised (Video, Fireship.io)](https://youtu.be/vn3tm0quoqE?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [JavaScript async and await in loops (Article, Zell Liew)](https://zellwk.com/blog/async-await-in-loops/)
 - [Google JavaScript Technical Interview - Callbacks, Promises, Await/Async (Article, GP Lee)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf) 🔥
 - [Everything About Callback Functions in JavaScript (Article, Dmitri Pavlutin)](https://dmitripavlutin.com/javascript-callback/) 🔥
