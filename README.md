@@ -1,4 +1,4 @@
-# 👩‍💻 Frontend Interview Preparation Resources
+# 👩‍💻 Frontend Resources
 
 So you haven't interviewed in a while, huh? Well, neither did I.
 
