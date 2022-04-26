@@ -6,6 +6,8 @@ During the last interview preparation process I went through, I gathered a bunch
 
 Plus, if on the other hand you are interviewing people, you'll find great ideas of questions and coding problems that you may apply to your interviews!
 
+I will keep this updated with my latest resource discoveries :)
+
 Happy learning/interviewing/coding! ✌️
 
 Sofia xx
