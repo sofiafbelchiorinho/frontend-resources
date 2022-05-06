@@ -1,10 +1,12 @@
-# 👩‍💻 Frontend Interview Preparation Resources
+# 👩‍💻 Frontend Resources
 
 So you haven't interviewed in a while, huh? Well, neither did I.
 
 During the last interview preparation process I went through, I gathered a bunch of great resources on my bookmarks bar that were too good not to be shared (the 🔥 ones, you must definitely check out). Please keep in mind that this not a study guide as this is not ordered and assumes previous JS, ES6 and frontend fundamentals knowledge; instead look at this as recap material that you can you go review before your interviews.
 
 Plus, if on the other hand you are interviewing people, you'll find great ideas of questions and coding problems that you may apply to your interviews!
+
+I will keep this updated with my latest resource discoveries :)
 
 Happy learning/interviewing/coding! ✌️
 
@@ -34,7 +36,7 @@ Sofia xx
 - [React Junior Vs Senior Code (Video, Web Dev Simplified)](https://youtu.be/0yzoAbrjV6k?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [Senior React Interview Code Challenge (Video, Coding With Kevin)](https://youtu.be/Kb3YtXDvPo0)
 - [HARD React Interview Questions (Video, Peter Elbaum)](https://www.youtube.com/watch?v=Zpvzv8Uma8Q&ab_channel=PeterElbaum)
-- [REAL Front End Interview Questions - Whiteboard (Video, Peter Elbaum)](https://youtu.be/W2mwbKWyZyU?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y) 🔥
+- [REAL Front End Interview Questions - Whiteboard (Video, Peter Elbaum)](https://youtu.be/W2mwbKWyZyU?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [Mastering React Memo (Video, Jack Herrington)](https://youtu.be/DEPwA3mv_R8?list=LL)
 - [Debouncing with React Hooks (Article, Gabe Ragland)](https://dev.to/gabe_ragland/debouncing-with-react-hooks-jci)
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer | JSConf Hawaii 2020 (Video, Tanner Linsley)](https://www.youtube.com/watch?v=J-g9ZJha8FE&ab_channel=JSConf)🔥
@@ -50,7 +52,6 @@ Sofia xx
 - [When to Use Bind(), Call(), and Apply() in JavaScript (Article, Artturi Jalli)](https://betterprogramming.pub/when-to-use-bind-call-and-apply-in-javascript-1ae9d7fa66d5) 🔥
 - [Closures Explained in 100 Seconds // Tricky JavaScript Interview Prep (Video, Fireship.io)](https://youtu.be/vKJpN5FAeF4?list=LL)
 - [Learn Closures In 7 Minutes (Video, WebDevSimplified)](https://youtu.be/3a0I8ICR1Vg?list=LL)
-- [The Async Await Episode I Promised (Video, Fireship.io)](https://youtu.be/vn3tm0quoqE?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [JavaScript promises, mastering the asynchronous (Course, Magus)](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript) 🔥
 - [Learn and Train JavaScript (Articles & Exercises, Coderanx)](https://www.coderanx.com/articles) 🔥
 - [Promises Exercises (Exercises, JoelCodes)](https://github.com/lighthouse-labs/promises-exercises)
