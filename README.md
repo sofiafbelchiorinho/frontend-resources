@@ -54,6 +54,7 @@ Sofia xx
 - [JavaScript promises, mastering the asynchronous (Course, Magus)](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript) 🔥
 - [Learn and Train JavaScript (Articles & Exercises, Coderanx)](https://www.coderanx.com/articles) 🔥
 - [Promises Exercises (Exercises, JoelCodes)](https://github.com/lighthouse-labs/promises-exercises)
+- [Hard Interview Question | Create Your Own Implementation Of JS Promises](https://www.youtube.com/watch?v=1l4wHWQCCIc&ab_channel=WebDevSimplified) 🔥
 - [The Async Await Episode I Promised (Video, Fireship.io)](https://youtu.be/vn3tm0quoqE?list=PLAUbjVYZJkBrZ4pJ8JcwuwL8ifWJ8md5y)
 - [JavaScript async and await in loops (Article, Zell Liew)](https://zellwk.com/blog/async-await-in-loops/)
 - [Google JavaScript Technical Interview - Callbacks, Promises, Await/Async (Article, GP Lee)](https://medium.com/developers-tomorrow/google-javascript-technical-interview-7a20accd6ddf) 🔥
